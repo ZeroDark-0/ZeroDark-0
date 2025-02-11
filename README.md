@@ -1,7 +1,7 @@
 <h1 align="center">Greeting../ ZeroDark</h1>
 <h3 align="center">Welcome to my GitHub Profile\</h3>
 
-- 🔭 I’m currently working on **VR Game**
+- 🔭 I’m currently working on **VR Game & Multiplayer Networking System**
 
 - 🌱 I’m currently learning **Gamedev and 3D Arts**
 
