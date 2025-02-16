@@ -18,7 +18,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ZeroDark-0&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
+### Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZeroDark-0&theme=violet-punch&border_radius=4.8)](https://git.io/streak-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=ZeroDark-0&icon=3&color=1)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
