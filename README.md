@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my GitHub Profile\</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on VR Game & Multiplayer Networking System<br><br>🌱 I’m currently learning Gamedev and 3D Arts<br><br>👯 I’m looking to collaborate on Projects on Game Development<br><br>🤝 I’m looking for help with Game Design/C#/Art and Animation<br><br>👨‍💻 All of my 3D Art projects are available at https://zerodark.artstation.com<br><br>💬 Ask me about C++, Blender<br><br>📫 How to reach me chaitanya.jain.gamedev@gmail.com<br><br>⚡ Fun fact I am doing every other thing except making games..//
+🔭 I’m currently working on VR Game & Multiplayer Networking System<br><br>🌱 I’m currently learning Gamedev and 3D Arts<br><br>👯 I’m looking to collaborate on Projects on Game Development<br><br>🤝 I’m looking for help with Game Design/C#/Art and Animation<br><br>👨‍💻 All of my 3D Art projects are available at https://zerodark.artstation.com<br><br>💬 Ask me about C++, Blender<br><br>Fun fact I am doing every other thing except making games..//
 
 
 ## 🌐 Socials:
