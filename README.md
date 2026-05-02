@@ -34,16 +34,6 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 | **3D / sculpt** | Blender, ZBrush |
 | **art** | Photoshop, Illustrator |
 
----
-
-### stats
-
-<div align="center">
-
-![ZeroDark-0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZeroDark-0&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDark-0&layout=compact&theme=midnight-purple&hide_border=true)
-
-</div>
 
 ---
 
