@@ -34,8 +34,8 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 | **3D / sculpt** | Blender, ZBrush |
 | **art** | Photoshop, Illustrator |
 
-
 ---
+
 
 ### reach me
 
@@ -44,7 +44,8 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZeroDark--0-181717?style=flat-square&logo=github)](https://github.com/ZeroDark-0)
+[![GitHub](https://img.shields.io/badge/GitHub-ZeroDark--0-181717?style=flat-square&logo=github)](https://github.com/ZeroDark-0)  
+[![Discord](https://img.shields.io/badge/Discord-ZeroDark--0-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/659447909208686632)
 
 </div>
 
