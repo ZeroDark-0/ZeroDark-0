@@ -5,16 +5,17 @@
 # Greeting../ ZeroDark
 
 **Welcome to my GitHub Profile\\**
-
+*doing everything, except actually making the game.*
 </div>
 
 ---
 
 ### who am i?
-
 game dev + competitive programmer.  
 i build things that move, look good, and occasionally explode.  
 when i'm not modeling characters or sculpting in blender, i'm grinding codeforces at 2am.
+
+**outside the screen →** buried in a book, sketching characters, or wrenching on PC builds, somewhere between "i can do this" and "let me watch 3 videos first"
 
 ---
 
@@ -27,12 +28,13 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 
 ### tools i use
 
-| area | stack |
+| Area | Stack |
 |---|---|
-| **languages** | C++, C# |
-| **game engine** | Unity |
-| **3D / sculpt** | Blender, ZBrush |
-| **art** | Photoshop, Illustrator |
+| **Languages** | C++, C# |
+| **Game Engine** | Unity |
+| **IDEs** | Rider, CLion, VS 2022 |
+| **3D / Sculpt** | Blender, ZBrush |
+| **Art / Media** | Photoshop, Illustrator, Premiere Pro |
 
 ---
 
@@ -43,15 +45,16 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 > no spam. no noise.
 
 <div align="center">
-  
+
+[![Linktree](https://img.shields.io/badge/Linktree-zerodark.hopium-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/zerodark.hopium)  
 [![GitHub](https://img.shields.io/badge/GitHub-ZeroDark--0-181717?style=flat-square&logo=github)](https://github.com/ZeroDark-0)  
 [![Discord](https://img.shields.io/badge/Discord-Boldness-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/659447909208686632)  
 [![Email](https://img.shields.io/badge/Email-ZeroDark-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zerodark.hopium@gmail.com)
-  
+
 </div>
 
 ---
 
 <div align="center">
-<sub>building in the dark. shipping in the light.</sub>
+<sub>trying to do better.</sub>
 </div>
