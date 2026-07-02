@@ -23,6 +23,7 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 
 - (≧∀≦) **3D character design** ↦ sculpting and rigging characters from scratch
 - (⌐■_■) **personal 2D game** ↦ solo dev, everything from mechanics to art
+- ヾ(≧▽≦*)o **currently working as an 3d environment artist under a studio**
 
 ---
 
