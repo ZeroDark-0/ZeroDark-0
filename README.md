@@ -11,7 +11,7 @@
 ---
 
 ### who am i?
-game dev + competitive programmer.  
+game dev + 3d artist + competitive programmer.  
 i build things that move, look good, and occasionally explode.  
 when i'm not modeling characters or sculpting in blender, i'm grinding codeforces at 2am.
 
