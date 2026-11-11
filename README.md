@@ -13,7 +13,7 @@
 ### who am i?
 game dev + 3d artist + competitive programmer.  
 i build things that move, look good, and occasionally explode.  
-when i'm not modeling characters or sculpting in blender, i'm grinding codeforces at 2am.
+when i'm not modeling characters or sculpting in blender, i'm grinding codeforces at 2am or maybe grinding the shit on deadlock(it's a game).
 
 **outside the screen →** buried in a book, sketching characters, or wrenching on PC builds, somewhere between "i can do this" and "let me watch 3 videos first"
 
@@ -23,7 +23,7 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 
 - (≧∀≦) **3D character design** ↦ sculpting and rigging characters from scratch
 - (⌐■_■) **personal 2D game** ↦ solo dev, everything from mechanics to art
-- ヾ(≧▽≦*)o **currently working as an 3d environment artist under a studio**
+- <(＿　＿)> **currently working on my CV project**
 
 ---
 
@@ -31,10 +31,10 @@ when i'm not modeling characters or sculpting in blender, i'm grinding codeforce
 
 | Area | Stack |
 |---|---|
-| **Languages** | C++, C# |
+| **Languages** | C++, C#, python |
 | **Game Engine** | Unity |
 | **IDEs** | Rider, CLion, VS 2022 |
-| **3D / Sculpt** | Blender, ZBrush |
+| **3D / Sculpt** | Blender, ZBrush, Substance Painter |
 | **Art / Media** | Photoshop, Illustrator, Premiere Pro |
 
 ---
